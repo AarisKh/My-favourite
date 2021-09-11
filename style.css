@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background:linear-gradient(dodgerblue 0%, greenyellow 100%);   
+}
+img{
+    width:120px;
+    height:150px;
+    border-radius:50%;
+}
+.line{
+    width:70px;
+    height:6px;
+    background-color:black;
+    margin:8px auto;
+}
+#description{
+    padding:20px;
+    font-size:20px;
+}
